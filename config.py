@@ -7,10 +7,11 @@ API_ID = int(os.environ.get("API_ID", "28086908"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","252fa697a19e0b0c8f43ae823bed3183")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", " 8236739786:AAE9WQjCXgilBgd0qx20qE-PMQGdqpgLwfI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", " 8026446969:AAHIJgMY1l6IiQg9th64tm6i-61Us6e8Tjo
+")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Extractor_rbot")
-BOT_TEXT = "rahul BHAI KA EXTRACTOR"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@theunique_corner_bot")
+BOT_TEXT = "@theunique_corner_bot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7759518251"))
 # ------------------------------------------------
